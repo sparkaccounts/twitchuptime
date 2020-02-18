@@ -1,7 +1,7 @@
 'use strict';
 
 //channel name - edit this to reflect your channel name
-var channel = 'unshapedadrian';
+var channel = 'sparkaccounts';
 
 //global for output format
 var myOutputFormat = 'hh:mm:ss';
